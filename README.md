@@ -2,6 +2,8 @@ Introducción
 El problema de la Cena de los Filósofos plantea una situación donde cinco filósofos están sentados alrededor de una mesa y van alternando entre pensar y comer. Para poder comer necesitan dos palillos, pero esos palillos están compartidos con los filósofos de al lado. Esto provoca que, si no se controla bien, todos puedan quedarse bloqueados esperando un palillo o que alguno nunca llegue a comer.
 
 
+
+
 Objetivo: 
 El objetivo es resolver el problema de la cena de los filósofos utilizando semáforos en Java. Con ellos buscamos que los filósofos compartan los palillos de forma segura, manteniendo siempre la exclusión mutua para que solo un filósofo pueda usar un palillo a la vez.
 Además, el ejercicio está diseñado para evitar el interbloqueo, impidiendo que todos los filósofos se queden esperando eternamente los palillos, y también para evitar la inanición.
